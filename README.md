@@ -1,7 +1,3 @@
-# Engineering README
-
-Dokumen ini menjelaskan struktur teknis repositori `x-transformers`, cara kerja transformer di dalamnya, dan titik masuk yang relevan untuk pengembangan lanjutan.
-
 ## Tujuan Proyek
 
 Repositori ini menyediakan implementasi transformer yang ringkas namun luas cakupannya. Fokus utamanya adalah:
